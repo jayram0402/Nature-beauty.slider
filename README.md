@@ -1,5 +1,5 @@
-# Cool Vertical Slider with JavaScript
-This project showcases a simple yet elegant vertical slider implemented using HTML, CSS, and JavaScript. It allows users to swipe vertically through different images and corresponding information.
+# Nature-beauty
+This project of "Cool Vertical Slider with JavaScript" to showcases a simple yet elegant vertical slider implemented using HTML, CSS, and JavaScript. It allows users to swipe vertically through different images and corresponding information.
 
 ## Features:
 --Vertical sliding functionality.
@@ -14,7 +14,7 @@ This project showcases a simple yet elegant vertical slider implemented using HT
 
 ## How to Use:
 --Clone the repository to your local machine.
---Open index.html in your preferred web browser.
+--Open 'swipe.html' in your preferred web browser.
 --Swipe up or down to navigate through the slides.
 --Enjoy the beautiful images and accompanying information!
 
